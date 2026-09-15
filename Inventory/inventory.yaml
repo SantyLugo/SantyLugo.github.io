@@ -1,0 +1,23 @@
+version: "0.1"
+updated_at: "2026-09-15"
+
+nodes:
+  - id: savia-workstation2
+    role: compute-workstation
+    location: "Fundadores - Piso 4"
+    os:
+      family: Ubuntu
+      version: 26.04
+    cpu:
+      model: "Intel Core i9-12900K"
+    memory_gb: 61
+    gpus:
+      - model: "NVIDIA RTX 4070 Ti"
+        vram_gb: 12
+        status: documented
+    network:
+      ip_documented: "172.16.90.22"
+      ip_verified: null
+    sources:
+      - "Arquitectura actual SavIA Lab"
+
