@@ -6,7 +6,7 @@ Para mantener la estabilidad del código, organizar las entregas y coordinar los
 
 ## 📊 Diagrama General del Flujo
 
-![Diagrama GitFlow](./assets/gitflow_diagram.png)
+<img src="https://dam-cdn.atl.orangelogic.com/AssetLink/t8b1bnptx6bn40wc43g83j02u5b61064.svg" alt="Diagrama GitFlow" width="500">
 
 ---
 
